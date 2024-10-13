@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "io.jonuuh.MODID.mixins",
+  "refmap": "mixins.MODID.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinMinecraft"
+  ]
+}
